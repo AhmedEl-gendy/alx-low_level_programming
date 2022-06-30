@@ -1,6 +1,8 @@
 #include <stdio.h>
-/*
- *function print string
+/**
+ *main - Entry point 
+ *Description: 'puts function prints string'
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
